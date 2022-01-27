@@ -1,0 +1,8 @@
+{
+    "app": "/Users/lucasmachado/Documents/Projects/Bemis/Bemis.apk",
+    "platformName": "Android",
+    "appPackage": "com.bemis",
+    "appActivity": ".MainActivity",
+    "platformVersion": "12",
+    "device": "Bemis_android"
+  }

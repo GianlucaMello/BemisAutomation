@@ -8,8 +8,8 @@ exports.config = {
       desiredCapabilities: {
         deviceName: 'Bemis_android',
         platformVersion: '12',
-        appPackage: '',
-        appActivity: ''
+        appPackage: 'com.bemis',
+        appActivity: '.MainActivity'
       }
     }
   },

@@ -8,7 +8,8 @@ module.exports = {
   },
 
   buttons: {
-    enter: ({xpath: '//android.widget.Button[@content-desc="LOG IN"]'})
+    enter: ({xpath: '//android.widget.Button[@content-desc="LOG IN"]'}),
+    register_here: '~Register Here'
   },
 
   doLogin(email, password){

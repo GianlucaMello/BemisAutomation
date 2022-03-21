@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GianlucaMello/BemisAutomation#readme",
   "dependencies": {
     "codeceptjs": "^3.2.3",
+    "email-generator": "^1.0.1",
     "webdriverio": "^7.16.13"
   }
 }

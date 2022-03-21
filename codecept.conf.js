@@ -2,8 +2,8 @@ exports.config = {
   output: './output',
   helpers: {
     Appium: {
-      platform: 'Android',
-      app: '/Users/franciellypedroso/Desktop/apk/Bemis.apk',
+      platform: 'iOS',
+      app: '/Users/franciellypedroso/Desktop/ipa/Bemis.ipa',
       desiredCapabilities: {
         deviceName: 'Pixel 2',
         platformVersion: '9',

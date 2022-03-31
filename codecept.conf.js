@@ -3,12 +3,10 @@ exports.config = {
   helpers: {
     Appium: {
       platform: 'iOS',
-      app: '/Users/franciellypedroso/Desktop/ipa/Bemis.ipa',
+      app: '/Users/franciellypedroso/Desktop/ipa/Runner.app',
       desiredCapabilities: {
-        deviceName: 'Pixel 2',
-        platformVersion: '9',
-        appPackage: 'com.bemis',
-        appActivity: '.MainActivity'
+        deviceName: 'iPhone 13',
+        platformVersion: '15.2',
       }
     }
   },
